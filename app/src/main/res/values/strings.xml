@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Truyền Activity</string>
+    <string name="activity_b">Đây là Activity B</string>
+    <string name="button_call">Call Activity B</string>
+</resources>
+
